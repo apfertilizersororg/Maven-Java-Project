@@ -28,14 +28,14 @@
   <repositories>
         <repository>
             <id>myMavenRepo.read</id>
-            <url>https://mymavenrepo.com/repo/Kc9khPUGgDzV9gruoyls/</url>
+		<url>https://mymavenrepo.com/repo/TfEFI5bJW4WN9gSaMtMh/</url>
         </repository>
     </repositories>
 
     <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/repo/xtzDXsryp1OKYd3hZ4iE/</url>
+            <url>https://mymavenrepo.com/repo/TfEFI5bJW4WN9gSaMtMh/</url>
         </repository>
     </distributionManagement>
 
